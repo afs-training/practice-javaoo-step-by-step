@@ -59,7 +59,6 @@ and an `introduce` method.
 7. Teacher also has an `isTeaching` method, which accepts an instance of `Student` 
     and return `true/false`. 
     As long as the student is in any `klass` of the `classes`, the teacher is teaching him.
-    Whether the student is in klass, `Klass` has a method `isIn` to judge. 
 
     All the subclass of `Person` , should call `Person#introduce` method to get following
     text：

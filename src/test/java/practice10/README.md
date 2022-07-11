@@ -60,7 +60,6 @@ and an `introduce` method.
 7. Teacher also has an `isTeaching` method, which accepts an instance of `Student` 
     and return `true/false`. 
     As long as the student is in any `klass` of the `classes`, the teacher is teaching him.
-    Whether the student is in klass, `Klass` has a method `isIn` to judge. 
 
 8. When a student joins a class, the Teacher will print a sentence like:
 
